@@ -1,0 +1,2 @@
+# Python backend — not needed for Vercel (handled by Next.js API routes)
+../backend
