@@ -1,0 +1,6 @@
+{"sessionId":"19622e","location":"RouteMap.tsx:effect-start","message":"useEffect fired","data":{"mapRefNull":true,"containerRefNull":false,"leafletId":null},"timestamp":1777461826447,"hypothesisId":"H1,H2,H3,H4"}
+{"sessionId":"19622e","location":"RouteMap.tsx:cleanup","message":"cleanup fired","data":{"mapRefNull":true,"leafletId":"no-container"},"timestamp":1777461826448,"hypothesisId":"H2,H3,H4"}
+{"sessionId":"19622e","location":"RouteMap.tsx:effect-start","message":"useEffect fired","data":{"mapRefNull":true,"containerRefNull":false,"leafletId":null},"timestamp":1777461826448,"hypothesisId":"H1,H2,H3,H4"}
+{"sessionId":"19622e","location":"RouteMap.tsx:import-resolved","message":"leaflet import resolved, about to create map","data":{"mapRefNull":true,"containerRefNull":false,"leafletId":null},"timestamp":1777461826458,"hypothesisId":"H1,H2,H3"}
+{"sessionId":"19622e","location":"RouteMap.tsx:import-resolved","message":"leaflet import resolved, about to create map","data":{"mapRefNull":false,"containerRefNull":false,"leafletId":3},"timestamp":1777461826462,"hypothesisId":"H1,H2,H3"}
+{"sessionId":"19622e","location":"RouteMap.tsx:cleanup","message":"cleanup fired","data":{"mapRefNull":false,"leafletId":"no-container"},"timestamp":1777461966633,"hypothesisId":"H2,H3,H4"}
